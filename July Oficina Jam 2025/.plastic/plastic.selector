@@ -1,0 +1,4 @@
+repository "July Oficina Jam 2025/July Oficina Jam 2025@4673428429136@cloud"
+  path "/"
+    br "/main"
+    co "/main"
