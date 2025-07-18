@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	653254686	Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3			\Default Work Unit\Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	208288688	Male Warrior 2 Scream, Battle, War, Cry, Fight, Shout 3	V:\VITOR\Hobbies\Estudos\Programação\July-Oficina-Jam-Repository\July Oficina Jam 2025\July Oficina Jam 2025_WwiseProject\.cache\F1\{F14CC58E-DDAB-8FEF-83E2-6F9BE51D618F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Male Warrior 2 Scream, Battle, War, Cry, Fight, Shout 3		230808
+

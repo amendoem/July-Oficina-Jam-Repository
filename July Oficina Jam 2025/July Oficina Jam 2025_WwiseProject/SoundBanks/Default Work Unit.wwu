@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{FCE65E56-93F1-4030-9726-C4C53740859E}" SchemaVersion="123">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{FCE65E56-93F1-4030-9726-C4C53740859E}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{FCE65E56-93F1-4030-9726-C4C53740859E}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{4E0C91BD-65A0-4586-9153-3A34231E14B3}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3" ID="{E97B0AFA-B7A1-4008-99A0-B4ACC435DFF1}" WorkUnitID="{6F5FF3C0-8301-4919-85DE-D381A328E45F}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

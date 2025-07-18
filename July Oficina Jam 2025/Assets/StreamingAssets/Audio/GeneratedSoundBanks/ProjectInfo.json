@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "July Oficina Jam 2025_WwiseProject",
+   "GUID": "{A55DEC12-2478-4791-AE5C-F08639059F65}",
+   "Generator": "2024.1.6.8842"
+  },
+  "CacheRoot": "../../../../July Oficina Jam 2025_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{D5111A96-1C98-421E-B747-1E7CBAE82A2C}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../July Oficina Jam 2025_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{0C016C7C-DDD8-4AA1-B30F-10A015D8D753}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../July Oficina Jam 2025_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{E2F95812-9AE8-423C-BFBB-01556E85790F}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{55FE6BD1-6235-2889-BE6D-A1B0D59851D8}"
+ }
+}

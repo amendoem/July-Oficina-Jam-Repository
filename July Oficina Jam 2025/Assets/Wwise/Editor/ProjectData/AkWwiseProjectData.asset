@@ -80,8 +80,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: c0f35f6f0183194985ded381a328e45f
     GuidInternal: 
-    m_lastTime: -8584488344704182849
-    List: []
+    m_lastTime: -8584488316024920765
+    List:
+    - name: Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3
+      guid: fa0a7be9a1b7084099a0b4acc435dff1
+      id: 653254686
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: c0f35f6f0183194985ded381a328e45f
+      - ElementName: Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3
+        ObjectType: 3
+        guid: fa0a7be9a1b7084099a0b4acc435dff1
+      Path: Events\Default Work Unit\Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:

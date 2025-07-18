@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{6F5FF3C0-8301-4919-85DE-D381A328E45F}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{6F5FF3C0-8301-4919-85DE-D381A328E45F}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{6F5FF3C0-8301-4919-85DE-D381A328E45F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3" ID="{E97B0AFA-B7A1-4008-99A0-B4ACC435DFF1}">
+					<ChildrenList>
+						<Action Name="" ID="{0375C7D3-EA0D-4380-AF28-70226AD9FE03}" ShortID="549120541">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Male Warrior 2 Scream, Battle, War, Cry, Fight, Shout 3" ID="{57BD7F2D-45B1-4A77-9723-7308385C382D}" WorkUnitID="{3F0C2133-31CD-4971-9050-96668E72988C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{4E0C91BD-65A0-4586-9153-3A34231E14B3}",
+    "Language": "SFX",
+    "Hash": "{1D1DE903-C210-C6DA-4AC2-0EEE83BC1FE1}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "208288688",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Male Warrior 2 Scream, Battle, War, Cry, Fight, Shout 3.wav",
+      "CachePath": "F1/{F14CC58E-DDAB-8FEF-83E2-6F9BE51D618F}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "653254686",
+      "Name": "Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Male_Warrior_2_Scream__Battle__War__Cry__Fight__Shout_3",
+      "GUID": "{E97B0AFA-B7A1-4008-99A0-B4ACC435DFF1}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.201625",
+      "DurationMax": "1.201625",
+      "MediaRefs": [
+       {
+        "Id": "208288688"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{75DF073F-59D6-1FD0-B0C3-7DD70F704364}"
+ }
+}
